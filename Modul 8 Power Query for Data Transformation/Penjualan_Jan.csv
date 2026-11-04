@@ -1,0 +1,13 @@
+ID_Transaksi;Tanggal;Kode_Pelanggan;Produk;Jumlah;Harga_Satuan;Kanal_Penjualan;Kota_Transaksi
+TRX001;2026-01-03;C001;Laptop Stand;2;175000;Online;Jakarta
+TRX002;2026-01-04;C002;Keyboard;3;125000;Marketplace;Bandung
+TRX003;2026-01-05;C003;Mouse;5;65000;Online;Surabaya
+TRX004;2026-01-06;C001;USB Hub;2;95000;Marketplace;Jakarta
+TRX005;2026-01-08;C004;Monitor 24 inch;1;1850000;Sales;Yogyakarta
+TRX006;2026-01-10;C005;Keyboard;2;125000;Online;Semarang
+TRX007;2026-01-12;C006;Mouse;4;65000;Marketplace;Bandung
+TRX008;2026-01-15;C007;Laptop Stand;1;175000;Sales;Jakarta
+TRX009;2026-01-17;C008;USB Hub;3;95000;Online;Surabaya
+TRX010;2026-01-20;C009;Monitor 24 inch;2;1850000;Marketplace;Bandung
+TRX011;2026-01-22;C010;Keyboard;1;125000;Online;Jakarta
+TRX012;2026-01-25;C011;Mouse;6;65000;Sales;Yogyakarta
